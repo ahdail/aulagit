@@ -1,1 +1,3 @@
+<?="outro teste;"?>
+
 <?="Teste";?>
