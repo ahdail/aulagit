@@ -1,3 +1,4 @@
-<?="outro teste;"?>
+<?php phpinfo(); ?>
+ola!
 
-<?="Teste";?>
+
