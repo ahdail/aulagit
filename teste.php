@@ -1,4 +1,2 @@
 <?php phpinfo(); ?>
-ola!
-
-
+ola!123
